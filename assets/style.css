@@ -1,0 +1,27 @@
+* {box-sizing: border-box;}
+
+body{background-color:black;}
+
+* {
+    margin:0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+
+h1 {
+    position: relative;
+    margin: 0px auto;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 90px;
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(0,201,41);
+}
+
+.container {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
